@@ -1,4 +1,4 @@
----
+drii---
 sidebar_position: 2
 title: Automatische Niederschlagsstationen
 ---
